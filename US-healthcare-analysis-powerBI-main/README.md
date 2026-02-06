@@ -6,10 +6,8 @@
 2. [Key Features](#key-features)
 3. [Highlights](#highlights)
 4. [Insights](#insights)
-5. [Full Report](#full-report)
-6. [Usage](#usage)
-7. [Contribution](#contribution)
-8. [Conclusion](#conclusion)
+5. [Contribution](#contribution)
+6. [Conclusion](#conclusion)
 
 ---
 ##  Project Overview
@@ -86,9 +84,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 
 
-## Contribution
 
-Find issues, suggest enhancements, or contribute to the project by opening an [issue](https://github.com/your-username/US-Healthcare-Analytics-PowerBI-Insights/issues) or submitting a [pull request](https://github.com/your-username/US-Healthcare-Analytics-PowerBI-Insights/pulls).
 
 ---
 
