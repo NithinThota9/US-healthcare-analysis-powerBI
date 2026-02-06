@@ -84,22 +84,7 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 
 ---
 
-## Usage
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights.git
-   ```
-
-2. **Open the Power BI file:**
-   ```bash
-   cd US-Healthcare-Analytics-PowerBI-Insights
-   ```
-   Open `US_Healthcare_Dynamics.pbix` using Power BI Desktop.
-
-3. **Explore the Insights and Findings Interactively.**
-
----
 
 ## Contribution
 
@@ -107,12 +92,6 @@ Find issues, suggest enhancements, or contribute to the project by opening an [i
 
 ---
 
-
-[![License](https://img.shields.io/badge/License-MIT-silver)](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/blob/main/LICENSE)
-
-This PowerBI-driven initiative is licensed under the [MIT License](LICENSE), focusing on providing comprehensive insights into the U.S. healthcare industry from 2019 to 2020. The meticulously designed reports and visualizations offer strategic intelligence for stakeholders in the healthcare landscape.
-
----
 
 ## Conclusion
 
